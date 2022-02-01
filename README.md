@@ -10,7 +10,15 @@
 
 - add form view page that submit it to an api that save to database for current model
 
-7. This need to be done today
+8. Make a class called Controller_builder.js with function build.
+9. In build function, read the configuration.json and make the following for each model:
+
+- add route to handle get model
+- add route to handle create model
+- add route to handle update model
+- add route to handle delete model
+
+10. This need to be done today
 
 Example
 
